@@ -21,7 +21,9 @@ An understanding of three legged OAuth 1.0 is helpful to complete all the specs 
 ## Github Documentation
 
 https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api
+
 https://docs.github.com/en/rest/reference
+
 https://docs.github.com/en/rest/overview/resources-in-the-rest-api
 
 ## Specs:
