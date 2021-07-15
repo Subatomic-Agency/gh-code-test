@@ -16,9 +16,11 @@ The goal of this project is to understand your thought processes and collaborati
 
 You are not expected to finish all of the requirements of the project — when we’re reaching the end of the time, we’ll recap and discuss our progress so far and you may be asked several questions about decisions you made in the test. 
 
-An understanding of three legged OAuth 1.0 is helpful to complete all the specs of this challenge - https://oauth1.wp-api.org/docs/basics/Auth-Flow.html.
+An understanding of three legged OAuth 2.0 is helpful to complete all the specs of this challenge - https://oauth.net/2/ - https://aaronparecki.com/oauth-2-simplified/
 
 ## Github Documentation
+
+https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps
 
 https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api
 
